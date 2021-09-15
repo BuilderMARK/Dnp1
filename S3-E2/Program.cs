@@ -58,7 +58,8 @@ namespace S3_E2
 
         private static List<Person> ReadObject()
         {
-            return JsonSerializer.Deserialize<List<Person>>(File.ReadAllText("C:\\Users\\Bent\\RiderProjects\\Semester3\\S3-E2\\MyLines.txt"));
+            return JsonSerializer.Deserialize<List<Person>>(
+                File.ReadAllText("C:\\Users\\Bent\\RiderProjects\\Semester3\\S3-E2\\MyLines.txt"));
         }
     }
 }
