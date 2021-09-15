@@ -1,0 +1,1 @@
+[{"FirstName":"Mark","LastName":"Pedersen","Age":12,"Hight":170,"IsMarried":true,"Sex":"M","Hobbies":["Football","hej"]},{"FirstName":"Ole","LastName":"Oedersen","Age":14,"Hight":112,"IsMarried":true,"Sex":"F","Hobbies":["Football","Nej"]},{"FirstName":"Ulla","LastName":"Pedersen","Age":3,"Hight":150,"IsMarried":false,"Sex":"F","Hobbies":["balls","MakeUp"]}]
